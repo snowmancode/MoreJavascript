@@ -7,3 +7,5 @@ console.log("Good Bye, Planet Earth");
 let best_wrestler = "Bret Hart";
 
 console.log(best_wrestler);
+console.log("Best of the Best");
+console.log("Ace of Aces");
